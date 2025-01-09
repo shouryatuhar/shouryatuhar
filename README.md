@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shouryatuhar
 - 👀 I’m interested in Data Structures and Algorithms and Cybersecurity
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms and Cybersecurity
 - 📫 How to reach me : my email-> shouryatuhar@gmail.com
 
 
