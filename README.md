@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shouryatuhar
+- 👋 Hi, I’m Shourya Tuhar
 - 👀 I’m interested in Data Structures and Algorithms and Cybersecurity
 - 🌱 I’m currently learning Data Structures and Algorithms and Cybersecurity
 - 📫 How to reach me : my email-> shouryatuhar@gmail.com
