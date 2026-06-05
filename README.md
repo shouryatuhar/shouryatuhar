@@ -53,7 +53,7 @@ Not just calling APIs — writing the logic underneath.
 
 ---
 
-### 🚀 featured projects
+###  featured projects
 
 | project | what it does | stack |
 |---|---|---|
@@ -64,7 +64,7 @@ Not just calling APIs — writing the logic underneath.
 
 ---
 
-### 📈 github stats
+###  github stats
 
 <div align="center">
 
