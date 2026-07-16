@@ -6,9 +6,9 @@
 
 Computer Science Undergraduate passionate about building production-quality backend systems, AI-powered developer tools, and scalable software.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-2563EB?style=for-the-badge)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]**(https://linkedin.com/in/YOUR_LINK**https://www.linkedin.com/in/shourya-tuhar-9110a828b/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shouryatuhar@gmail.com)
 
 </div>
 
