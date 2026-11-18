@@ -6,7 +6,7 @@ I'm curious about how things work beneath the surface, from software systems to 
 
 **Currently looking for software engineering internship opportunities.**
 
-[Portfolio](https://shouryatuhar.vercel.app) · [LinkedIn](https://www.linkedin.com/in/shourya-tuhar-9110a828b/) · [Email](mailto:shouryatuhar@gmail.com) · [Medium](https://medium.com/@shouryatuhar) · [LeetCode](https://leetcode.com/u/Shouryaaaa/) · [CodeChef](https://www.codechef.com/users/soft_wasp_36)
+[LinkedIn](https://www.linkedin.com/in/shourya-tuhar-9110a828b/) · [Email](mailto:shouryatuhar@gmail.com) · [Medium](https://medium.com/@shouryatuhar) · [LeetCode](https://leetcode.com/u/Shouryaaaa/) · [CodeChef](https://www.codechef.com/users/soft_wasp_36)
 
 ## Experience
 
