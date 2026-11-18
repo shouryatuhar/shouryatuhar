@@ -1,32 +1,91 @@
-# Hey, I'm Shourya Tuhar
+<div align="center">
 
-I'm a computer science undergraduate interested in backend engineering, distributed systems, and AI evaluation.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:263449&height=150&section=header&text=Shourya%20Tuhar&fontSize=46&fontColor=f8fafc&fontAlignY=52" width="100%" alt="Shourya Tuhar" />
 
-I'm curious about how things work beneath the surface, from software systems to machines on a factory floor. I like tracing what's happening, understanding why, and figuring out how the pieces fit together.
+### Backend Engineering · Distributed Systems · AI Evaluation
 
-**Currently looking for software engineering internship opportunities.**
+Computer science undergraduate who likes figuring out how things work, from software systems to machines on a factory floor.
 
-[LinkedIn](https://www.linkedin.com/in/shourya-tuhar-9110a828b/) · [Email](mailto:shouryatuhar@gmail.com) · [Medium](https://medium.com/@shouryatuhar) · [LeetCode](https://leetcode.com/u/Shouryaaaa/) · [CodeChef](https://www.codechef.com/users/soft_wasp_36)
+**Open to software engineering internships**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shourya-tuhar-9110a828b/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shouryatuhar@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Read%20my%20writing-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@shouryatuhar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shouryaaaa/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/soft_wasp_36)
+
+</div>
+
+---
+
+## About
+
+I’m curious about what’s happening beneath the surface: tracing a system’s behavior, understanding why it works that way, and seeing how the pieces fit together. I’m especially interested in backend engineering, distributed systems, and building software that stays clear and dependable as it grows.
 
 ## Experience
 
 **AI/LLM Evaluation Contributor · Mercor**  
 *September 2026 – Present*  
-Contribute to evaluating AI model outputs for quality and correctness.
+Evaluating AI model outputs for quality and correctness.
 
 ## Selected projects
 
-- **[IncidentFlow](https://github.com/shouryatuhar/IncidentFlow)** — A full-stack incident management app with incident timelines, status workflows, webhook integrations, and reliability analytics. [Live demo](https://frontend-murex-omega-87.vercel.app)
-- **[HostSentinel](https://github.com/shouryatuhar/HostSentinel)** — A Python framework for cross-platform host security audits, with modular checks, evidence-backed findings, risk scoring, and HTML, PDF, and JSON reports.
-- **[DocIntel AI](https://github.com/shouryatuhar/docintel-ai)** — A PDF analysis toolkit with page-linked document maps, question-focused information finding, heuristic resume matching, and rule-based invoice and purchase-order checks.
-- **[Jobloom](https://github.com/shouryatuhar/jobloom)** *(in progress)* — A Java and Spring Boot job runner with persisted HTTP jobs, a worker, and job status tracking.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Tools I use
+### ⚡ IncidentFlow
+Incident management with response timelines, status workflows, monitoring webhooks, and reliability analytics.
 
-**Languages:** Java · Python · TypeScript · JavaScript · SQL  
-**Backend:** Spring Boot · FastAPI · Node.js · Express  
-**Data & infrastructure:** PostgreSQL · Redis · MongoDB · Docker · Linux
+[Repository](https://github.com/shouryatuhar/IncidentFlow) · [Live demo](https://frontend-murex-omega-87.vercel.app)
 
-## What I'm learning
+</td>
+<td width="50%" valign="top">
 
-Distributed systems, system design, backend reliability, and building software that stays understandable as it grows.
+### 🛡️ HostSentinel
+Cross-platform host security audits with modular checks, evidence-backed findings, and HTML, PDF, and JSON reports.
+
+[Repository](https://github.com/shouryatuhar/HostSentinel)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 DocIntel AI
+PDF document maps, question-focused information finding, heuristic resume matching, and rule-based invoice checks.
+
+[Repository](https://github.com/shouryatuhar/docintel-ai) · [Live app](https://docintel-ai-peach.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧵 Jobloom · In progress
+A Java and Spring Boot job runner with persisted HTTP jobs, a worker, and job status tracking.
+
+[Repository](https://github.com/shouryatuhar/jobloom)
+
+</td>
+</tr>
+</table>
+
+## Toolbox
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Currently learning
+
+Distributed systems · System design · Backend reliability
+
+<div align="center">
+
+*Curiosity first. Then trace it to the source.*
+
+</div>
